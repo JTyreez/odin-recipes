@@ -1,2 +1,3 @@
 # odin-recipes
-inks to a few recipes
+
+links to a few recipes
